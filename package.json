@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js",
-    "install": "rm -rf node_modules && npm install"
   },
   "author": "",
   "license": "ISC",
